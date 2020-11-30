@@ -15,6 +15,9 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/ReekrajR
 [2]: https://www.linkedin.com/in/royreekraj/
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 <!--
 **REEKRAJROY/REEKRAJROY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
