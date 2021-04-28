@@ -2,6 +2,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am Reekraj Roy a cse sophomore
+
+- 🔭 I’m currently working on open source contributions
+- 🌱 I’m currently learning MERN
+- ⚡ Fun fact: I don't like cookies
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]
@@ -34,11 +38,7 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]
 
 <!--**REEKRAJROY/REEKRAJROY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
-
-- 🔭 I’m currently working on open source contributions
-- 🌱 I’m currently learning MERN
-- ⚡ Fun fact: I don't like cookies 
+Here are some ideas to get you started:--> 
 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
