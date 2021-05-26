@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 # Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h3 align="center">I'm Reekraj Roy, a frontend web developer and cse sophomore</h3>
+<h3 align="center">A cafephile ☕️ by choice, frontend web developer💻️ by passion! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reekrajroy&label=Profile%20views&color=0e75b6&style=flat" alt="reekrajroy" /> </p>
 
