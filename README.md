@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reekrajroy" alt="reekrajroy" /></a> </p>
 - 🌱 I’m currently learning MERN and devops <br>
-- ⚡ Fun fact I don't like cookies <br>
 - 🔭 Codechef 3⭐, Leetcode 2⭐, Hackerank 5⭐<br>
 - ✨ Completed Hacktoberfest '20 <br>
 - 🎧 Listening to Hans Zimmer<br>
+- ⚡ Fun fact I don't like cookies <br>
 
 <h3 align="left">Find me here:</h3>
 <p align="left">
