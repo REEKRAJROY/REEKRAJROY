@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 # Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h3 align="center">Cafephile ☕️ by choice, web developer💻️ by passion! </h3>
-<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="reekrajroy" height="300" width="270"/>
+<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="reekrajroy" height="300" width="250"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reekrajroy&label=Profile%20views&color=0e75b6&style=flat" alt="reekrajroy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reekrajroy" alt="reekrajroy" /></a> </p>
