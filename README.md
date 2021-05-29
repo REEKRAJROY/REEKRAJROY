@@ -10,7 +10,7 @@
 - ✨ Completed Hacktoberfest '20 <br>
 - 🎧 Listening to Hans Zimmer<br>
 - 📭 How to reach me: Through any of the social media platforms <br>
-- ⚡ Fun fact: I don't like cookies   
+- ⚡ Fun fact: I don't like cookies <br>
 
 
 
