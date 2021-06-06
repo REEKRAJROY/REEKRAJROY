@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Flutter <br>
 - 🔭 Codechef 3⭐,Leetcode 2⭐,Hackerank 5⭐<br>
 - ✨ Completed Hacktoberfest '20 <br>
-- 🎧 Listening to Rekha Bhardwaj and Hans Zimmer<br>
+- 🎧 Listening to Travis Scott<br>
 - 📭 How to reach me: Through any of the social media platforms <br>
 - ⚡ Fun fact: I don't like cookies <br>
 
