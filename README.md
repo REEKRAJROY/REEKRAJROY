@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reekrajroy&label=Profile%20views&color=0e75b6&style=flat" alt="reekrajroy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reekrajroy" alt="reekrajroy" /></a> </p>
-- 🌱 I’m currently learning MERN and devops <br>
+- 🌱 I’m currently learning Flutter <br>
 - 🔭 Codechef 3⭐,Leetcode 2⭐,Hackerank 5⭐<br>
 - ✨ Completed Hacktoberfest '20 <br>
 - 🎧 Listening to Hans Zimmer<br>
