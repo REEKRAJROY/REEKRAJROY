@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reekrajroy" alt="reekrajroy" /></a> </p>
 - 🌱 I’m currently learning Flutter<br>
-- 🔭 Codechef 3⭐,Leetcode 2⭐,Hackerank 5⭐<br>
+- 🔭 Codechef 3⭐,Leetcode 2⭐,Hackerrank 5⭐<br>
 - ✨ Completed Hacktoberfest '20<br>
 - 🎧 Listening to Travis Scott<br>
 - 📭 How to reach me: Through any of the social media platforms<br>
