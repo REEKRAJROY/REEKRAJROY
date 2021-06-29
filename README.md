@@ -11,7 +11,7 @@
 📭 How to reach me: Through any of the social media platforms<br>
 ⚡ Fun fact: I don't like cookies<br>
 <br>
-<h3>Achievements:-</h3>
+<h3 align="left">Achievements:</h3>
 ✨ Completed Hacktoberfest 2020<br>
 ✨ AWS MLE 2021 Scholarship recipient<br>
 <br>
