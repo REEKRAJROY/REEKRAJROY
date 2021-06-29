@@ -9,7 +9,7 @@
 🔭 Codechef 3⭐,Leetcode 2⭐,Hackerrank 5⭐<br>
 🎧 Listening to Travis Scott<br>
 📭 How to reach me: Through any of the social media platforms<br>
-⚡ Fun fact: I don't like cookies<br>
+⚡ Fun fact: I don't like cookies🍪️<br>
 <br>
 <h3 align="left">Achievements:</h3>
 ✨ Completed Hacktoberfest 2020<br>
