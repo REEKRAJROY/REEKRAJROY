@@ -36,6 +36,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekrajroy&show_icons=true&locale=en" alt="reekrajroy" /></p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?royreekraj=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reekrajroy&" alt="reekrajroy" /></p>
 
 <!--START_SECTION:activity-->
