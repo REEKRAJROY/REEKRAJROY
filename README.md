@@ -40,4 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reekrajroy&" alt="reekrajroy" /></p>
 
-<!--START_SECTION:activity-->
+[![Reekraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=REEKRAJROY&theme=github)](https://github.com/REEKRAJROY/github-readme-activity-graph)
