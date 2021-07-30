@@ -11,7 +11,7 @@
 📭 How to reach me: Through any of the social media platforms<br>
 ⚡ Fun fact: I don't like cookies🍪️<br>
 
-📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1fuA8UY5qmeNZUNSqbz89Fd7DkI4H9iUi/view)
+
 <br>
 <h3 align="left">Achievements:</h3>
 ✨ Completed Hacktoberfest 2020<br>
