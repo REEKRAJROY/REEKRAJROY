@@ -80,6 +80,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reekrajroy&show_icons=true&locale=en&layout=compact" alt="reekrajroy" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekrajroy&show_icons=true&locale=en" alt="reekrajroy" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?royreekraj=willianrod)](https://github.com/anuraghazra/github-readme-stats)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reekrajroy&" alt="reekrajroy" /></p>
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?royreekraj=willianrod)](https://github.com/anuraghazra/github-readme-stats)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reekrajroy&" alt="reekrajroy" /></p>-->
 
 <!--[![Reekraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=REEKRAJROY&theme=github)](https://github.com/REEKRAJROY/github-readme-activity-graph)-->
