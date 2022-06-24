@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-<h3 align="center"> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px" height="50px"></h3>
+<h3 align="center"> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px" height="35px"></h3>
 
 ### I am Reekraj Roy, currently in my pre-final year, pursuing B.Tech 👨🏽‍🎓 in Computer Science from SMIT 🏫️. I am a coder 👨🏽‍💻, developer 🛠️ and cafephile ☕. Find my tech blogs ✍️ here @ [royreekraj.hashnode.dev](https://royreekraj.hashnode.dev/). You can reach me 💬 through [LinkedIn](https://www.linkedin.com/in/royreekraj/).
 <!--### `sudo hello world!` <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
