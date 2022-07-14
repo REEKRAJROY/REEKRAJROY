@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 <h3 align="center"> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px" height="35px"></h3>
 
-### I am Reekraj Roy, currently in my pre-final year, pursuing B.Tech 👨🏽‍🎓 in Computer Science from SMIT 🏫️. I am a coder 👨🏽‍💻, developer 🛠️ and cafephile ☕. Find my tech blogs ✍️ here @ [royreekraj.hashnode.dev](https://royreekraj.hashnode.dev/). You can reach me 💬 through [LinkedIn](https://www.linkedin.com/in/royreekraj/).
+### I am Reekraj Roy, in my final year, pursuing B.Tech 👨🏽‍🎓 in Computer Science from SMIT 🏫️. I am a coder 👨🏽‍💻, developer 🛠️ and cafephile ☕. Find my tech blogs ✍️ here @ [royreekraj.hashnode.dev](https://royreekraj.hashnode.dev/). You can reach me 💬 through [LinkedIn](https://www.linkedin.com/in/royreekraj/).
 <!--### `sudo hello world!` <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h3 align="center">Cafephile ☕️ by habit, web developer💻️ by passion! </h3>
 <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="reekrajroy" height="300" width="170"/>-->
