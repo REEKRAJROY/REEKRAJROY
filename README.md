@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 <h3 align="center"> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px" height="35px"></h3>
 
-### I am Reekraj Roy, currently working 💼 as a Software Engineer @ [UNext Learning](https://u-next.com/), working with the MEAN stack. I am a 2023 undergrad having pursued a B.Tech 👨🏽‍🎓 in Computer Science 🏫️. Find my tech blogs ✍️ here @ [medium.com/@royreekraj](https://medium.com/@royreekraj). You can reach me 💬 through [LinkedIn](https://www.linkedin.com/in/royreekraj/). Looking for a landing page for your business? Drop a text on LinkedIn!
+### I am Reekraj Roy, currently working 💼 as a Software Engineer @ [UNext Learning](https://u-next.com/), working with the MEAN stack. I am a 2023 undergrad having pursued a B.Tech 👨🏽‍🎓 in Computer Science 🏫️. Find my tech blogs ✍️ here @ [medium.com/@royreekraj](https://medium.com/@royreekraj). You can reach me 💬 through [LinkedIn](https://www.linkedin.com/in/royreekraj/). Looking for a landing page for your business? Drop a text on [LinkedIn](https://www.linkedin.com/in/royreekraj/)!
 <!--### `sudo hello world!` <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h3 align="center">Cafephile ☕️ by habit, web developer💻️ by passion! </h3>
 <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="reekrajroy" height="300" width="170"/>-->
