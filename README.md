@@ -1,9 +1,12 @@
 <!--### Hi there 👋-->
 <h3 align="center"> Namaste World🙏 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px" height="35px"></h3>
 
-### I am Reekraj Roy, currently working 💼 as a Software Engineer @ [UNext Learning](https://u-next.com/), working with the MEAN stack. I am a 2023 undergrad having pursued a B.Tech 👨🏽‍🎓 in Computer Science 🏫️. Find my tech blogs ✍️ here @ [medium.com/@royreekraj](https://medium.com/@royreekraj). You can reach me 💬 through [LinkedIn](https://www.linkedin.com/in/royreekraj/). 
+### Reekraj Roy this side, working 💼 as a Software Engineer @ [UNext Learning](https://u-next.com/). Currently working with the MEAN stack, mainly in the backend writing apis, testing, and breaking existing code. I am a 2023 B.Tech cse undergrad looking for the next switch/remote gig. <br>
+### I occasionally write ✍️ here @ [medium.com/@royreekraj](https://medium.com/@royreekraj). <br>
+### Reach out to me 💬 via [LinkedIn](https://www.linkedin.com/in/royreekraj/). <br>
+### To know me further here is a 🧻[resume](https://drive.google.com/file/d/1cYxSd0wEDxKjnoLVdQ2k14YzdBOqz1mS/view) of sorts, a 🥷 [Leetcode profile](https://leetcode.com/royreekraj/), and a 🌏 [portfolio](http://royreekraj.netlify.app) you can envy.
 
-### Looking for a landing page for your business? Drop a text on [LinkedIn](https://www.linkedin.com/in/royreekraj/).
+<!--### Looking for a landing page for your business? Drop a text on [LinkedIn](https://www.linkedin.com/in/royreekraj/).-->
 <!--### `sudo hello world!` <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 <!--<h3 align="center">Cafephile ☕️ by habit, web developer💻️ by passion! </h3>-->
 <!--<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="reekrajroy" height="300" width="170"/>-->
