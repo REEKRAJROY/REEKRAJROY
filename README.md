@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 <h3 align="center"> Namaste World🙏 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px" height="35px"></h3>
 
-### Reekraj Roy this side, working 💼 as a Software Engineer @ [UNext Learning](https://u-next.com/). Currently working with the MEAN stack, mainly in the backend writing apis, testing, and breaking existing code. I am a 2023 B.Tech cse undergrad looking for the next switch/remote gig. <br>
+### Reekraj Roy this side, 💼 a Software Engineer @ [UNext Learning](https://u-next.com/). Currently working with the MEAN stack, mainly in the backend writing apis, testing, and breaking existing code. I am a 2023 B.Tech cse undergrad looking for the next switch/remote gig. <br>
 ### I occasionally write ✍️ here @ [medium.com/@royreekraj](https://medium.com/@royreekraj). <br>
 ### Reach out to me 💬 via [LinkedIn](https://www.linkedin.com/in/royreekraj/). <br>
 ### To know me further here is a 🧻[resume](https://drive.google.com/file/d/1cYxSd0wEDxKjnoLVdQ2k14YzdBOqz1mS/view) of sorts, a 🥷 [Leetcode profile](https://leetcode.com/royreekraj/), and a 🌏 [portfolio](http://royreekraj.netlify.app) you can envy.
