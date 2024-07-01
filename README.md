@@ -4,7 +4,7 @@
 ### Reekraj Roy this side, 💼 a Software Engineer @ [UNext Learning](https://u-next.com/). Currently working with the MEAN stack, mainly in the backend writing apis, testing, and breaking existing code. I am a 2023 B.Tech cse undergrad looking for the next switch/remote gig. <br>
 ### I occasionally write ✍️ here @ [medium.com/@royreekraj](https://medium.com/@royreekraj). <br>
 ### Reach out to me 💬 via [LinkedIn](https://www.linkedin.com/in/royreekraj/). <br>
-### To know me further here is a 🧻[resume](https://drive.google.com/file/d/1cYxSd0wEDxKjnoLVdQ2k14YzdBOqz1mS/view) of sorts, a 🥷 [Leetcode profile](https://leetcode.com/royreekraj/), and a 🌏 [portfolio](http://royreekraj.netlify.app) you can envy.
+### To know me further here is a 🧻[resume](https://drive.google.com/file/d/1cmAL0SUmvS_L3d1L-iM65B-Mof5-qitY/view?usp=sharing) of sorts, a 🥷 [Leetcode profile](https://leetcode.com/royreekraj/), and a 🌏 [portfolio](http://royreekraj.netlify.app) you can envy.
 
 <!--### Looking for a landing page for your business? Drop a text on [LinkedIn](https://www.linkedin.com/in/royreekraj/).-->
 <!--### `sudo hello world!` <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
